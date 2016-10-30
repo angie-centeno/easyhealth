@@ -1,0 +1,4 @@
+1;Fernando Almanza Consultorio:1 Turno: matutino
+2;Mario Perez Consultorio:2 Turno: matutino
+3;Pedro Navajas Consultorio:1 Turno: vespertino
+4;Javier Gonzalez Consultorio:2 Turno: vespertino
